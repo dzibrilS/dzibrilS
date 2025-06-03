@@ -10,8 +10,12 @@
 
 *Calisthenics — bodyweight strength is my go-to fitness
 
-🛠️ Tech Stack & Tools
-*Languages: C++, React, JavaScript
+🛠️ Tech Stack & Tools  
+
+*Languages: C++, React, JavaScript            
+
 *Technologies: .NET, WPF, SQLite, ESP32, Arduino
+
 *Tools: Visual Studio, Arduino IDE, Git, Figma, Kali Linux, Wireshark
+
 *Other: Windows Terminal
