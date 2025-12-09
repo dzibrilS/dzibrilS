@@ -1,16 +1,21 @@
- Hi there 👋
+# Hi there 👋
 
-I'm Gabriel , a software engineer based in Poland. 
+I'm **Gabriel**, a software engineer based in Poland.  
 
-I mostly work on frontend stuff - React, Typescript, Tailwind, Next.js. 
+I mostly work on **frontend stuff** — React, TypeScript, Tailwind, Next.js.  
+I also use **Figma** for UI design and **Procreate** when I want to sketch ideas.  
 
-I also use Figma for Ui design and Procreate when i want sketch ideas. 
+---
 
-##
- Tools & Tech 
+ # 🛠️ Tools & Tech
 
-• C++, React, Next.js, TypeScript, PHP, Android Studio (Java/Kotlin)   
-• Docker, Git, Linux  
-• Figma, Procreate 
+**Languages & Frameworks:**  
+C++ • React • Next.js • TypeScript • PHP • Android Studio (Java/Kotlin)
+
+**Tools & Platforms:**  
+Docker • Git • Linux
+
+**Design & Creative:**  
+Figma • Procreate
 
 
