@@ -10,7 +10,7 @@ I also use **Figma** for UI design and **Procreate** when I want to sketch ideas
  # 🛠️ Tools & Tech
 
 **Languages & Frameworks:**  
-C++ • React • Next.js • TypeScript • PHP • Android Studio (Java/Kotlin)
+C++ • React • Next.js • TypeScript • PHP • Android Studio 
 
 **Tools & Platforms:**  
 Docker • Git • Linux
