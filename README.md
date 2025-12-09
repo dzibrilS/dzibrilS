@@ -16,6 +16,6 @@ C++ • React • Next.js • TypeScript • PHP • Android Studio
 Docker • Git • Linux
 
 **Design & Creative:**  
-Figma • Procreate
+Figma • Procreate • Notion
 
 
