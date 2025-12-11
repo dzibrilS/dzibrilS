@@ -13,7 +13,7 @@ I also use **Figma** for UI design and **Procreate** when I want to sketch ideas
 C++ • React • Next.js • TypeScript • PHP • Android Studio • Python
 
 **Tools & Platforms:**  
-Docker • Git • Linux
+Docker • Linux • Git • Kali Linux • Wireshark
 
 **Design & Creative:**  
 Figma • Procreate • Notion
