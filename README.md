@@ -2,7 +2,7 @@
 
 I'm **Gabriel**, a software engineer based in Poland.  
 
-I mostly work on **frontend stuff** — React, TypeScript, Tailwind, Next.js.  
+I mostly work on **frontend stuff** - React, TypeScript, Tailwind, Next.js.  
 I also use **Figma** for UI design and **Procreate** when I want to sketch ideas.  
 
 ---
